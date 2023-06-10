@@ -9,8 +9,7 @@ In this paper, we propose a novel framework that is based on authoritative guida
 
 System overview             |  Time-frequency patching
 :-------------------------:|:-------------------------:
-![alt text](<img width="899" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97">
-)  | <img width="1200" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/8b2ab0c7-f696-4b06-a30f-e04774f11153">
+![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="1200" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/8b2ab0c7-f696-4b06-a30f-e04774f11153">
 
 Fequencey-band-time-index visualization resutls [1],[2].
 
