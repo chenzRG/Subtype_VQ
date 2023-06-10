@@ -32,16 +32,7 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 
 ## Training
 
-```python
-python main.py 
---epochs=xx
-...
---dim=xx
---layers=xx
-...
---dic_name <path/to/model_checkpoint> 
-<model_checkpoint.pth>
-```
+
 
 You can set up different hyperparameters by --args.xx in _main.py_.
 
