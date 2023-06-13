@@ -44,7 +44,6 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 ## Citation
 Please consider citing it accordingly based on your needs:
 
--
     @article{ChenCMPB,
     title = {Learning vector quantized representation for cancer subtypes identification},
     journal = {Computer Methods and Programs in Biomedicine},
