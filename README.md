@@ -42,7 +42,7 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 
 
 ## Citation
-Please consider citing it accordingly based on your needs:
+Please consider citing it accordingly based on your need:
 
     @article{ChenCMPB,
     author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin},
