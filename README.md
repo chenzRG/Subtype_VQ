@@ -1,4 +1,4 @@
-## Subtype_vQ
+## Subtype_VQ
 
 This repository contains implementations of two research works.
 
