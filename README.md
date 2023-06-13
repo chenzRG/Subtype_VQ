@@ -5,14 +5,14 @@ This repository contains implementations of two research works.
 
 # [Learning Vector Quantized Representation for Cancer Subtypes Identification](https://www.sciencedirect.com/science/article/abs/pii/S0169260723002080)
 
-Z Chen et al., "Learning vector quantized representation for cancer subtypes identification",Computer Methods and Programs in Biomedicine,
+Z. Chen et al., "Learning vector quantized representation for cancer subtypes identification",Computer Methods and Programs in Biomedicine,
 Volume 236,pages 107543,2023.
 
 This paper proposes to leverage a recent strong generative model, Vector-Quantized Varia- tional AutoEncoder, to tackle the data issues and extract discrete representation that are crucial to the quality of subsequent clustering by retaining only information relevant to reconstructing the input.
 
 # [Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping](https://ieeexplore.ieee.org/document/9994928)
 
-Z Yang "Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping," 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022, pp. 1350-1355.
+Z. Yang "Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping," 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022, pp. 1350-1355.
 
 This paper proposes a novel generative model that directly models the cancer data distribution by which downstream tasks can circumvent the curse of overfitting and achieve better performance. Unlike conventional generative modeling schemes, the proposed method underlines hierarchical categorical latent spaces to extract global features and local details respectively from transcriptomics and genomics profiles, which is the first to be considered in the cancer subtyping literature. 
 
