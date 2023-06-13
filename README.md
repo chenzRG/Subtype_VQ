@@ -50,16 +50,14 @@ Please consider citing it accordingly based on your needs.:
     volume = {236},
     pages = {107543},
     year = {2023},
-    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}
-  }
+    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}}
 
     @INPROCEEDINGS{YangBIBM,
     author={Yang, Ziwei and Zhu, Lingwei and Li, Chen and Chen, Zheng and Ono, Naoki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko},
     booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
     title={Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping}, 
     year={2022},
-    pages={1350-1355}
-  }
+    pages={1350-1355}}
 
 
 
