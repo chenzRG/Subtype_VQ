@@ -50,7 +50,8 @@ Please consider citing it accordingly based on your needs:
     volume = {236},
     pages = {107543},
     year = {2023},
-    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}}
+    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}
+}
 
 
     @INPROCEEDINGS{YangBIBM,
