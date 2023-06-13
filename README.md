@@ -26,7 +26,7 @@ CMPB Subtype_VQ (Transcriptomics)            |  BIBM Hierarchical Subtype_VQ (Tr
 
 ## Description
 
-You can find the implementation in the respective files of "[CMPB](https://github.com/chenzRG/Subtype_VQ/tree/main/CMPB)" and "[BIBM](https://github.com/chenzRG/Subtype_VQ/tree/main/BIBM)".
+You can find the implementation and details in the respective files of "[CMPB](https://github.com/chenzRG/Subtype_VQ/tree/main/CMPB)" and "[BIBM](https://github.com/chenzRG/Subtype_VQ/tree/main/BIBM22)".
 
 
 ## Setup
@@ -42,16 +42,24 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 
 
 ## Citation
-If you find this code useful in your research, please consider citing:
+Please consider citing it accordingly based on your needs.:
 
-    @ARTICLE{TNSREchen23,
-  	author={Chen, Zheng and Yang, Ziwei and Zhu, Lingwei and Chen, Wei and Tamura, Toshiyo and Ono, Naoaki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko and Huang, Ming},
-  	journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-  	title={Automated Sleep Staging via Parallel Frequency-Cut Attention}, 
-  	year={2023},
-  	volume={31},
-  	pages={1974-1985},
-  }
+@article{ChenCMPB,
+title = {Learning vector quantized representation for cancer subtypes identification},
+journal = {Computer Methods and Programs in Biomedicine},
+volume = {236},
+pages = {107543},
+year = {2023},
+author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}
+}
+
+@INPROCEEDINGS{YangBIBM,
+  author={Yang, Ziwei and Zhu, Lingwei and Li, Chen and Chen, Zheng and Ono, Naoki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko},
+  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping}, 
+  year={2022},
+  pages={1350-1355}}
+
 
 
 
