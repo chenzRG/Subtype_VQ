@@ -1,3 +1,8 @@
+## Subtype_vQ
+
+This repository contains implementations of two research works.
+
+
 # [Learning Vector Quantized Representation for Cancer Subtypes Identification](https://www.sciencedirect.com/user/identity/landing?code=W2vgnySYS2MGjyFoFBESBYYyDNYhbvHU4WE5co1j&state=retryCounter%3D0%26csrfToken%3D8aa8350e-a6b5-45f6-b21c-59ebe0a591da%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0169260723002080%26prompt%3Dnone%26cid%3Darp-b4b57868-8f7d-4c1c-beda-ee23531fdeba)
 
 Zheng Chen, Ziwei Yang, Lingwei Zhu, Wei Chen, Toshiyo Tamura, Naoaki Ono, MD Altaf-Ul-Amin, Shigehiko Kanaya and Ming Huang
@@ -8,7 +13,7 @@ This paper proposes to leverage a recent strong generative model, Vector-Quantiz
 
 Ziwei Yang, Lingwei Zhu, Chen Li, Zheng Chen, Naoki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya
 
-Identifying a specific cancer subtype from a variety of candidates is vital for precise and effective treatment. However, cancer subtyping is highly non-trivial as a result of cancer heterogeneity. While significant efforts have been put into understanding the mechanism of cancer subtypes via studying the omics data, existing methods run the risk of presenting biased analyses resulted from overfitting the high-dimensional and scarce omics data. In this paper, we propose a novel generative model that directly models the cancer data distribution by which downstream tasks can circumvent the curse of overfitting and achieve better performance. Unlike conventional generative modeling schemes, the proposed method underlines hierarchical categorical latent spaces to extract global features and local details respectively from transcriptomics and genomics profiles, which is the first to be considered in the cancer subtyping literature. By extensive experiments we verify that the proposed architecture achieves more clearly separated subtypes, as well as medically significant insights into real subtyping.
+This paper proposes a novel generative model that directly models the cancer data distribution by which downstream tasks can circumvent the curse of overfitting and achieve better performance. Unlike conventional generative modeling schemes, the proposed method underlines hierarchical categorical latent spaces to extract global features and local details respectively from transcriptomics and genomics profiles, which is the first to be considered in the cancer subtyping literature. 
 
 ---------------------------------------------------------------------------------------------------------------------
 
