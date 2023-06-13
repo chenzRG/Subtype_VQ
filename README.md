@@ -26,7 +26,7 @@ CMPB Subtype_VQ (Transcriptomics)            |  BIBM Hierarchical Subtype_VQ (Tr
 
 ## Description
 
-You can find the implementation in the respective files of "CMPB" and "BIBM".
+You can find the implementation in the respective files of "[CMPB](https://github.com/chenzRG/Subtype_VQ/tree/main/CMPB)" and "[BIBM](https://github.com/chenzRG/Subtype_VQ/tree/main/BIBM)".
 
 
 ## Setup
