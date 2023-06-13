@@ -11,17 +11,6 @@ System overview
 :-------------------------:
 ![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
 
-
-
-Fequencey-band-time-index visualization resutls [1],[2].
-
-<p align="center">
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png">
-</p>
-
-
-
-
 ## Setup
 
 You can install the required dependencies using pip.
