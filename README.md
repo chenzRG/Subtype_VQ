@@ -45,12 +45,12 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 Please consider citing it accordingly based on your needs:
 
     @article{ChenCMPB,
+    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin},
     title = {Learning vector quantized representation for cancer subtypes identification},
     journal = {Computer Methods and Programs in Biomedicine},
     volume = {236},
     pages = {107543},
-    year = {2023},
-    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}}
+    year = {2023}}
 
 ---
 
