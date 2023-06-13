@@ -21,7 +21,7 @@ This paper proposes a novel generative model that directly models the cancer dat
 CMPB Subtype_VQ (Transcriptomics)            |  BIBM Hierarchical Subtype_VQ (Transcriptomics + Genomics)
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
-![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
+![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/9c2ed093-23ac-40a7-ac80-1ce0ca0585d6)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
 
 
 
