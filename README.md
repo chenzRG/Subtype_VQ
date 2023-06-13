@@ -2,7 +2,7 @@
 
 Zheng Chen, Ziwei Yang, Lingwei Zhu, Wei Chen, Toshiyo Tamura, Naoaki Ono, MD Altaf-Ul-Amin, Shigehiko Kanaya and Ming Huang
 
-In this paper, we propose a novel framework that is based on authoritative guidance in sleep medicine and is designed to automatically capture the time-frequency characteristics of sleep electroencephalogram (EEG) signals in order to make staging decisions. Our framework consists of two main phases: a feature extraction process that partitions the input EEG spectrograms into a sequence of time-frequency patches, and a staging phase that searches for correlations between the extracted features and the defining characteristics of sleep stages. To model the staging phase, we utilize a Transformer model with an attention-based module, which allows for the extraction of global contextual relevance among time-frequency patches and the use of this relevance for staging decisions. 
+This paper proposes to leverage a recent strong generative model, Vector-Quantized Varia- tional AutoEncoder, to tackle the data issues and extract discrete representation that are crucial to the quality of subsequent clustering by retaining only information relevant to reconstructing the input.
 
 # [Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping](https://www.sciencedirect.com/user/identity/landing?code=W2vgnySYS2MGjyFoFBESBYYyDNYhbvHU4WE5co1j&state=retryCounter%3D0%26csrfToken%3D8aa8350e-a6b5-45f6-b21c-59ebe0a591da%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0169260723002080%26prompt%3Dnone%26cid%3Darp-b4b57868-8f7d-4c1c-beda-ee23531fdeba)
 
