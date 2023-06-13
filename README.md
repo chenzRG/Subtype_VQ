@@ -44,13 +44,13 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 ## Citation
 Please consider citing it accordingly based on your needs.:
 
-  @article{ChenCMPB,
-  title = {Learning vector quantized representation for cancer subtypes identification},
-  journal = {Computer Methods and Programs in Biomedicine},
-  volume = {236},
-  pages = {107543},
-  year = {2023},
-  author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}
+    @article{ChenCMPB,
+    title = {Learning vector quantized representation for cancer subtypes identification},
+    journal = {Computer Methods and Programs in Biomedicine},
+    volume = {236},
+    pages = {107543},
+    year = {2023},
+    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin}
   }
 
     @INPROCEEDINGS{YangBIBM,
@@ -61,15 +61,6 @@ Please consider citing it accordingly based on your needs.:
     pages={1350-1355}
   }
 
-    
-    @ARTICLE{TNSREchen23,
-  	author={Chen, Zheng and Yang, Ziwei and Zhu, Lingwei and Chen, Wei and Tamura, Toshiyo and Ono, Naoaki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko and Huang, Ming},
-  	journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-  	title={Automated Sleep Staging via Parallel Frequency-Cut Attention}, 
-  	year={2023},
-  	volume={31},
-  	pages={1974-1985},
-  }
 
 
 
