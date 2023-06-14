@@ -9,7 +9,6 @@ This paper proposes to leverage a recent strong generative model, Vector-Quantiz
 
 
 System overview             
-:-------------------------:
 ![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
 
 <img width="664" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/3d8761a3-ac12-44e9-bd0f-9d6ab4d8fdba">
