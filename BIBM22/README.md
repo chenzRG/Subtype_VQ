@@ -13,8 +13,9 @@ Cancer Subtyping            |  System Overview
 
 <img width="753" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/338d3b1c-6109-4b2c-83f1-bce380aee13c">
 
+Cancer Subtyping            |  System Overview
 :-------------------------:|:-------------------------:
-<img width="300" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/9247172c-9e79-4ca2-b397-0cb3deac8eb6">  | <img width="300" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/2c4442da-228f-40d6-98a2-5b81f383b803">
+<img width="430" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/9247172c-9e79-4ca2-b397-0cb3deac8eb6">  | <img width="430" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/2c4442da-228f-40d6-98a2-5b81f383b803">
 
 <img width="832" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/9247172c-9e79-4ca2-b397-0cb3deac8eb6">
 
