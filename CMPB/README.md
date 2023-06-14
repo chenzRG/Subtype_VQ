@@ -12,6 +12,15 @@ System overview
 :-------------------------:
 ![alt text](https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97)  | <img width="2100" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
 
+<img width="664" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/3d8761a3-ac12-44e9-bd0f-9d6ab4d8fdba">
+
+<img width="669" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/2ec75520-1061-4402-bdcc-b5a23752b999">
+
+<img width="856" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/0d7aee9c-8361-430e-ba0f-efea76cd1a10">
+
+<img width="1024" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/1a3acb3e-cb64-4f5a-b509-7e809f337db8">
+
+
 ## Setup
 
 You can install the required dependencies using pip.
