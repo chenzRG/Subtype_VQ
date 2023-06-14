@@ -3,19 +3,28 @@
 
 Z. Yang "Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping," 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022, pp. 1350-1355.
 
-This paper proposes a novel generative model that directly models the cancer data distribution by which downstream tasks can circumvent the curse of overfitting and achieve better performance. Unlike conventional generative modeling schemes, the proposed method underlines hierarchical categorical latent spaces to extract global features and local details respectively from transcriptomics and genomics profiles, which is the first to be considered in the cancer subtyping literature. 
+This paper proposes a novel generative model that directly models the cancer data distribution by which downstream tasks can circumvent the curse of overfitting and achieve better performance. Unlike conventional generative modeling schemes, the proposed method underlines hierarchical categorical latent spaces to extract global features and local details respectively from transcriptomics and genomics profiles, which is the first to be considered in the cancer subtyping literature. By extensive experiments, we verify that the proposed architecture achieves more clearly separated subtypes, as well as medically significant insights into real subtyping.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-
-CMPB Subtype_VQ (Transcriptomics)            |  BIBM Hierarchical Subtype_VQ (Transcriptomics + Genomics)
+Cancer Subtyping            |  System Overview
 :-------------------------:|:-------------------------:
-<img width="400" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/dc751853-441b-4e50-9feb-c02f59471e97">  | <img width="430" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
-<img width="390" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/1e7cf60a-175f-4b5d-8654-5a57d29c8812">  | <img width="450" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/3c980690-d3be-4d1e-a560-e69813bff93b">
+<img width="400" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/5ab34887-02c5-4d98-8f23-f80c19202587">  | <img width="430" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/e2f4fc41-9dc1-4af8-8947-ec012b8e805e">
+
+<img width="753" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/338d3b1c-6109-4b2c-83f1-bce380aee13c">
+
+:-------------------------:|:-------------------------:
+<img width="400" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/9247172c-9e79-4ca2-b397-0cb3deac8eb6">  | <img width="430" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/2c4442da-228f-40d6-98a2-5b81f383b803">
+
+<img width="832" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/9247172c-9e79-4ca2-b397-0cb3deac8eb6">
+
+<img width="683" alt="image" src="https://github.com/chenzRG/Subtype_VQ/assets/125750017/2c4442da-228f-40d6-98a2-5b81f383b803">
+
 
 ## Description
 
 You can find the implementation and details in the respective files of "[CMPB](https://github.com/chenzRG/Subtype_VQ/tree/main/CMPB)" and "[BIBM](https://github.com/chenzRG/Subtype_VQ/tree/main/BIBM22)".
+
 
 
 ## Setup
