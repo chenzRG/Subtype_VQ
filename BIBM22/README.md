@@ -21,34 +21,13 @@ Cancer Subtyping            |  System Overview
 
 ## Description
 
-You can find the implementation and details in the respective files of "[CMPB](https://github.com/chenzRG/Subtype_VQ/tree/main/CMPB)" and "[BIBM](https://github.com/chenzRG/Subtype_VQ/tree/main/BIBM22)".
+You can find the implementation in "VQ-VAE-2_git.ipynb" file.
+The testing data can be downloaded in "Test data.md"
 
-
-
-## Setup
-
-You can install the required dependencies using pip.
-
-```bash
-pip install -r requirements.txt
-```
-
-If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
 
 
 
 ## Citation
-Please consider citing it accordingly based on your need:
-
-    @article{ChenCMPB,
-    author = {Zheng Chen and Ziwei Yang and Lingwei Zhu and Peng Gao and Takashi Matsubara and Shigehiko Kanaya and Md Altaf-Ul-Amin},
-    title = {Learning vector quantized representation for cancer subtypes identification},
-    journal = {Computer Methods and Programs in Biomedicine},
-    volume = {236},
-    pages = {107543},
-    year = {2023}}
-
----
 
     @INPROCEEDINGS{YangBIBM,
     author={Yang, Ziwei and Zhu, Lingwei and Li, Chen and Chen, Zheng and Ono, Naoki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko},
