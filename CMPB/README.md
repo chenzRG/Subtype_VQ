@@ -3,7 +3,7 @@
 Z. Chen et al., "Learning vector quantized representation for cancer subtypes identification",Computer Methods and Programs in Biomedicine,
 Volume 236, pages 107543, 2023.
 
-This paper proposes to leverage a recent strong generative model, Vector-Quantized Varia- tional AutoEncoder, to tackle the data issues and extract discrete representation that are crucial to the quality of subsequent clustering by retaining only information relevant to reconstructing the input.
+This paper proposes to leverage a recent strong generative model, Vector-Quantized Variational AutoEncoder, to tackle the data issues and extract discrete representation that are crucial to the quality of subsequent clustering by retaining only information relevant to reconstructing the input.
 
 ---------------------------------------------------------------------------------------------------------------------
 <p align="center">     
